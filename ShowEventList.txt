@@ -1,0 +1,84 @@
+DeadPool 2;101;06/05/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/06/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/07/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/08/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/09/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/10/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/11/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/12/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/13/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/14/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/15/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/16/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/17/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/18/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/19/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/20/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/21/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/22/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/23/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/24/2018;Jeff's Theater;101;3;10;30
+DeadPool 2;101;06/25/2018;Jeff's Theater;101;3;10;30
+Avengers Infinity War;100;05/01/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/02/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/03/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/04/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/05/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/06/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/07/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/08/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/09/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/10/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/11/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/12/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/13/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/14/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/15/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/16/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/17/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/18/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/19/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/20/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/21/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/22/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/23/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/24/2018;Chris's Theater;100;5;10;50
+Avengers Infinity War;100;05/25/2018;Chris's Theater;100;5;10;50
+Rampage;102;04/28/2018;Kyle's Theater;102;4;12;48
+Rampage;102;04/29/2018;Kyle's Theater;102;4;12;48
+Rampage;102;04/30/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/01/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/02/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/03/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/04/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/05/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/06/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/07/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/08/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/09/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/10/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/11/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/12/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/13/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/14/2018;Kyle's Theater;102;4;12;48
+Rampage;102;05/15/2018;Kyle's Theater;102;4;12;48
+Super Troopers 2;103;10/10/2018;Dan's Theater;103;8;10;80
+Super Troopers 2;103;10/11/2018;Dan's Theater;103;8;10;80
+Super Troopers 2;103;10/12/2018;Dan's Theater;103;8;10;80
+Super Troopers 2;103;10/13/2018;Dan's Theater;103;8;10;80
+Super Troopers 2;103;10/14/2018;Dan's Theater;103;8;10;80
+Super Troopers 2;103;10/15/2018;Dan's Theater;103;8;10;80
+Black Panther;104;03/20/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/21/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/22/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/23/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/24/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/25/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/26/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/27/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/28/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/29/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/30/2018;Mike's Theater;104;4;7;28
+Black Panther;104;03/31/2018;Mike's Theater;104;4;7;28
+Black Panther;104;04/01/2018;Mike's Theater;104;4;7;28
+Black Panther;104;04/02/2018;Mike's Theater;104;4;7;28

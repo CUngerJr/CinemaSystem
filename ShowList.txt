@@ -1,0 +1,5 @@
+DeadPool 2;Action;R;06/05/2018;06/25/2018;101
+Avengers Infinity War;Action;PG-13;05/01/2018;05/25/2018;100
+Rampage;Fantasy;R;04/28/2018;05/15/2018;102
+Super Troopers 2;Comedy;R;10/10/2018;10/15/2018;103
+Black Panther;Fantasy;PG-13;03/20/2018;04/02/2018;104

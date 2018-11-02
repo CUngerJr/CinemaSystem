@@ -1,0 +1,5 @@
+Chris's Theater;100;5;10;50
+Jeff's Theater;101;3;10;30
+Kyle's Theater;102;4;12;48
+Dan's Theater;103;8;10;80
+Mike's Theater;104;4;7;28
